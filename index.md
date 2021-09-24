@@ -43,7 +43,7 @@ $.each( data.data, function( i, val ) {
 		if(parseInt(val) > 100000) val=Math.round(parseInt(val)/1000000);
 		if(i=='blocks_lifetime') val=parseInt(val) + parseInt(data.data.blocks_epoch);
 
-		$('#ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_'+i).html(val).text();   
+		$('#641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_'+i).html(val).text();   
 }); 
 		});
 </script>
@@ -61,4 +61,4 @@ Pool ID: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_pool
 		Blocks in epoch: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_blocks_epoch"></span><br>
 		Pledge: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_pledge"></span><br>
 		Rank: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_rank"></span><br>
-		More info on <a href="https://adapools.org/pool/641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76">ADApools.org</a>.
+		More info on <a href="https://adapools.org/pool/641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76">MACH1</a>.

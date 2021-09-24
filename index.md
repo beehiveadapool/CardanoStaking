@@ -4,11 +4,11 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-## Welcome to Arrow Cardano Staking pool
+## Welcome to MACH1 Cardano Staking pool
 
-We here at **Arrow** cardano staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Similar to a lavendar flower provides both a very pleasant aroma around it's surroundings and at the same time provides a high nector content for honey bees, let both of us (pool operators and stake holders) flourish together
+We here at **MACH1** cardano staking pool want our stake holders benefit the most with the lowest feasible fixed and variable fees. Similar to a lavendar flower provides both a very pleasant aroma around it's surroundings and at the same time provides a high nector content for honey bees, let both of us (pool operators and stake holders) flourish together
 
-You can use use my pool id [ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8](https://cardanoscan.io/pool/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8) to stake you cardano.
+You can use use my pool id [641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76](https://cardanoscan.io/pool/641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76) to stake you cardano.
 
 Our servers are located on highly fail safe and efficient Linux environment maintained 24x7 by technical professionals with decades of experience. These servers as running with an uptime of 99.999%
 
@@ -30,9 +30,9 @@ Facts to consider while you choose your pool
 - Low fee and high saturation of funds is not always good for the IOHK rewards algorithm. See article below
 ```
 **IOHK algorithm will not always favor saturated pools** [Check this article](https://www.reddit.com/r/cardano/comments/ejie0c/cardano_staking_what_drives_returns_how_to_pick/)  Make an informed decision of your liking and also help operators with low stake to promote true decentralization of the Cardano eco system.
-
+<!--
 <a href="https://twitter.com/ADAarrowPool?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ADAarrowPool</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+-->
 **Check some pool stats below**
 
 <script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>

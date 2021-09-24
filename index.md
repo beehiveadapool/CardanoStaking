@@ -37,7 +37,7 @@ Facts to consider while you choose your pool
 
 <script  src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script>
-$.getJSON('https://js.adapools.org/pools/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8/summary.json', function(data) { 
+$.getJSON('https://js.adapools.org/pools/641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76/summary.json', function(data) { 
 $.each( data.data, function( i, val ) { 
 		a=new Array('tax_fix','pledge','total_stake');
 		if(parseInt(val) > 100000) val=Math.round(parseInt(val)/1000000);
@@ -48,17 +48,17 @@ $.each( data.data, function( i, val ) {
 		});
 </script>
 
-Pool ID: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_pool_id"></span><br>
-		Ticker: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_db_ticker"></span><br>
-		Name: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_db_name"></span><br>
-		Description: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_db_description"></span><br>
-		Total Stake: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_total_stake"></span><br>
-		Last Reward Epoch: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_rewards_epoch"></span><br>
-		Tax Ratio: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_tax_ratio"></span><br>
-		Tax Fix: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_tax_fix"></span><br>
-		ROA: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_roa">%</span><br>
-		Blocks Lifetime: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_blocks_lifetime"></span><br>
-		Blocks in epoch: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_blocks_epoch"></span><br>
-		Pledge: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_pledge"></span><br>
-		Rank: <span id="ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8_rank"></span><br>
-		More info on <a href="https://adapools.org/pool/ef02b13ef062236829d567178288b8079cb2a924008734fc07ffd5b8">ADApools.org</a>.
+Pool ID: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_pool_id"></span><br>
+		Ticker: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_db_ticker"></span><br>
+		Name: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_db_name"></span><br>
+		Description: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_db_description"></span><br>
+		Total Stake: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_total_stake"></span><br>
+		Last Reward Epoch: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_rewards_epoch"></span><br>
+		Tax Ratio: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_tax_ratio"></span><br>
+		Tax Fix: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_tax_fix"></span><br>
+		ROA: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_roa">%</span><br>
+		Blocks Lifetime: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_blocks_lifetime"></span><br>
+		Blocks in epoch: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_blocks_epoch"></span><br>
+		Pledge: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_pledge"></span><br>
+		Rank: <span id="641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76_rank"></span><br>
+		More info on <a href="https://adapools.org/pool/641b0471374e7ff6660fa3e693eef49086c73b00f03e675a79204f76">ADApools.org</a>.
